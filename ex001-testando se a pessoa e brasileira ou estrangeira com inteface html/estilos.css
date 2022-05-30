@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+
+}
+#area{
+    margin: 56px 33%;
+    position: relative;
+}
+#pais{
+    font-size: 36px;
+    font-style: italic;
+}
+#caixa{
+    height: 25px;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+#botao{
+    position: absolute;
+    top: 20%;
+    left: 100%;
+    width: 40px;
+    height: 30px;
+    
+}
+#res{
+    color: rgb(187, 108, 5);
+    margin: 30px 0 0 7px;
+}

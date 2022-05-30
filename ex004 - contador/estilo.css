@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(243, 67, 67);
+}
+header{
+    text-align: center;
+    color: white;
+}
+#caixas{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+label{
+    font-size: 24px;
+}
+.caixa{
+    width: 100px;
+    margin-bottom: 20px;
+}
+#botao{
+    height: 25px;
+    background-color: black;
+    color: white;
+    border: white;
+    border-radius: 2px;
+}
+#rodape{
+    text-align: center;
+    padding-top: 8px;
+}
+.vermelho{
+    color: red;
+}
+.azul{
+    color: rgb(0, 255, 115);
+}
+.negrito_p{
+    font-size: 16px;
+    font-weight: bold;
+    
+}

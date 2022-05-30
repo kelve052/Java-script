@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(221, 255, 100);
+}
+header{
+    text-align: center;
+}
+main{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 24px;
+    border-radius: 15px;
+}
+label{
+    font-size: larger;
+}
+#numero{
+    width: 50px;
+    margin-left: 5px;
+}
+#botao{
+margin-left: 10px;
+background-color: brown;
+}
+#div{
+    padding-top: 30px;
+}
+footer{
+    text-align: center;
+    color: black;
+}

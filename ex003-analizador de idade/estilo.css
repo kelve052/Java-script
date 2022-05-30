@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(17, 235, 216, 0.425);
+    text-align: center;
+}
+h1{
+    color: #fff;
+}
+section{
+    text-align: left;
+    background-color: #fff;
+    width: 500px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 10px;
+}
+label{
+    font-size: 24px;
+}
+#data{
+    width: 100px;
+}
+#botao{
+    width: 70px;
+    height: 30px;
+    background-color: rgb(116, 223, 226);
+    border: #fff;
+    border-radius: 3px;
+
+}
+.labelesp{
+    font-size: 16px;
+    margin-left: 20px;
+}
+#imagem{
+    margin-top: 16px;
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+}

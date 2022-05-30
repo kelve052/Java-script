@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgb(119, 217, 255);
+}
+#cabesalho{
+    margin: 24px 0 48px 0;
+    color: #fff;
+}
+section{
+    width: 500px;
+    padding: 50px;
+    margin: auto;
+    background-color: #fff;
+}
+#hora{
+    
+}
+#imagem{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 100%;
+}
